@@ -1,6 +1,6 @@
 # MajorProjectEEE
 
-<img src="https://github.com/munish8448/MajorProjectEEE/blob/main/project.jpg" alt="Test on Breadboard" width="250" height="250">
+<img src="https://github.com/munish8448/MajorProjectEEE/blob/main/project.jpg" alt="Test on Breadboard" width="500" height="250">
 
 The Idea is to make an electrical enegry monitoring system and graphically represent the data.
 
