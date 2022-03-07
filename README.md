@@ -1,6 +1,6 @@
 # MajorProjectEEE
 
-[](https://github.com/munish8448/MajorProjectEEE/blob/main/project.jpg)
+![](https://github.com/munish8448/MajorProjectEEE/blob/main/project.jpg)
 
 The Idea is to make an electrical enegry monitoring system and graphically represent the data.
 
